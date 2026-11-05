@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Ателье Сагарадзе",
+      "hasCanvas": false,
+      "bodyTextLen": 1577,
+      "bodyTextHash": "f2f5df87b46be3c4ac4056b5e3d35eadfbb5ff07a354b0b7a6c6efbc2cacce7a",
+      "bodyTextPrefix": "СВѢТОПИСЬ · КУТАИСЪ ნიკოლოზ საღარაძე Николоз Сагарадзе, 1930 Ник",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Ателье Сагарадзе",
+      "hasCanvas": false,
+      "bodyTextLen": 1577,
+      "bodyTextHash": "f2f5df87b46be3c4ac4056b5e3d35eadfbb5ff07a354b0b7a6c6efbc2cacce7a",
+      "bodyTextPrefix": "СВѢТОПИСЬ · КУТАИСЪ ნიკოლოზ საღარაძე Николоз Сагарадзе, 1930 Ник",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
